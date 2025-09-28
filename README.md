@@ -46,7 +46,7 @@ Replace the placeholder with your AssemblyAI API key:
 
 Run the script:
 
-  python main.py
+  python ai_sss.py
 
 
 Speak commands like:
