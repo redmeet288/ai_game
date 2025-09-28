@@ -1,4 +1,5 @@
-AI Game — Voice-Controlled Square
+AI Game 0.1 — Voice-Controlled Square
+still in a very early stage
 
 This project demonstrates how to integrate AssemblyAI real-time speech recognition with a Tkinter GUI.
 A player can control a square on the canvas using simple voice commands like up, down, left, right, and also specify the number of steps with spoken numbers (e.g., "two up" → the square moves up by 2 cells).
